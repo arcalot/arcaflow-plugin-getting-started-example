@@ -3,7 +3,7 @@
 import sys
 import typing
 from arcaflow_plugin_sdk import plugin
-from template_python_schema import (
+from getting_started_example_schema import (
     InputParams,
     SuccessOutput,
     ErrorOutput,
