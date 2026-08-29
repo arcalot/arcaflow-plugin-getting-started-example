@@ -8,7 +8,7 @@ on:
       - published
 jobs:
   docsgen:
-    uses: arcalot/arcaflow-docsgen/.github/workflows/reusable_workflow.yaml@main
+    uses: arcalot/arcaflow-docsgen/.github/workflows/reusable_workflow.yaml@a3fab7472358b6815ddd56c90ceffae314e7f347 # main
     permissions:
       contents: write
       pull-requests: write
